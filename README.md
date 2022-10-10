@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://i.imgur.com/P4FGMoS.png" width=400 style="display: block; margin: 0 auto"/>
+ # Daehong Kim
 </p>
 
   <strong>About me</strong>
