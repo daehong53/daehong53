@@ -1,6 +1,6 @@
 
 <p align="center">
- # Daehong Kim
+# Daehong Kim
 </p>
 
   <strong>About me</strong>
